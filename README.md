@@ -1,10 +1,10 @@
 # Hi there! 👋😄
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FIshidres)](https://twitter.com/Ishidres)
+[![Twitter](https://img.shields.io/twitter/url?label=Tweet%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FIshidres)](https://twitter.com/Ishidres)
 [![Patreon](https://img.shields.io/badge/dynamic/json?url=https://shieldsio-patreon.herokuapp.com/Ishidres&label=Patreon&query=$.message&color=f86754
 )](https://patreon.com/Ishidres)
 [![GitHub followers](https://img.shields.io/github/followers/Ishidres?style=social)](https://github.com/Ishidres)
 
-<a href="https://ishidres.eu/"><img alt="Ishidres' profile picture" src="https://github.com/Ishidres.png" align="right" height="256" /></a>
+<a href="https://ishidres.eu/"><img alt="Ishidres' profile picture" src="https://github.com/Ishidres.png" align="right" height="128" /></a>
 
 ## I'm Ishidres
 
