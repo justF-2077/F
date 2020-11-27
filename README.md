@@ -1,6 +1,6 @@
 # Hi there! 👋😄
 [![Twitter](https://img.shields.io/twitter/url?label=Tweet%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FIshidres_Ent)](https://twitter.com/Ishidres_Ent)
-[![Patreon](https://img.shields.io/badge/dynamic/json?url=https://www.patreon.com/api/campaigns/658859&label=Patreon&query=data.attributes.patron_count&suffix= patrons&color=f86754)](https://patreon.com/Ishidres)
+[![Patreon](https://img.shields.io/badge/dynamic/json?url=https://www.patreon.com/api/campaigns/658859&label=Patreon&query=data.attributes.patron_count&suffix=%20patrons&color=f86754)](https://patreon.com/Ishidres)
 [![Discord server](https://img.shields.io/discord/741333704273690765?color=7289DA&label=Discord%20server&logo=Discord&logoColor=ffffff)](https://discord.gg/6FZAurp)
 [![GitHub followers](https://img.shields.io/github/followers/Ishidres?style=social)](https://github.com/Ishidres)
 
