@@ -6,7 +6,7 @@
 
 <a href="https://ishidres.eu/"><img alt="Ishidres' profile picture" src="https://github.com/Ishidres.png" align="right" height="128" /></a>
 
-## I'm Ishidres
+## I'm F
 
 - 👋 I'm a Node.js, web and game developer
 
