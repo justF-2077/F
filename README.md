@@ -4,7 +4,7 @@
 [![Discord server](https://img.shields.io/discord/741333704273690765?color=7289DA&label=Discord%20server&logo=Discord&logoColor=ffffff)](https://discord.gg/6FZAurp)
 [![GitHub followers](https://img.shields.io/github/followers/Ishidres?style=social)](https://github.com/Ishidres)
 
-<a href="https://ishidres.eu/"><img alt="Ishidres' profile picture" src="https://github.com/Ishidres.png" align="right" height="128" /></a>
+<!-- <a href="https://ishidres.eu/"><img alt="Ishidres' profile picture" src="https://github.com/Ishidres.png" align="right" height="128" /></a> -->
 
 ## I'm F
 
